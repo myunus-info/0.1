@@ -1,0 +1,170 @@
+/* ===============================
+    Common CSS Starts here
+================================== */
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+p,
+span {
+    margin: 0;
+    padding: 0;
+}
+
+/* ===============================
+    Common CSS Ends here
+================================== */
+
+
+/* ===============================
+    Menu Part Starts here
+================================== */
+.main_menu {
+    height: 158px;
+}
+
+.main_menu .navbar-nav .nav-item .nav-link {
+    padding: 0;
+    color: #707070;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 50px;
+}
+
+.main_menu img {
+    width: 168px;
+    margin-right: 57px;
+}
+
+.menu_form input {
+    width: 300px !important;
+    padding-left: 28px;
+    margin-right: 0;
+    border-radius: 20px;
+    border: none;
+    color: #cccccc;
+    font-size: 18px;
+    font-style: italic;
+    background: #f8f8f8;
+
+}
+
+.menu_form {
+    position: relative;
+}
+
+.menu_form .searchIcon {
+    position: absolute;
+    right: 25px;
+    color: #cccccc;
+}
+
+/* ===============================
+    Menu Part Ends here
+================================== */
+
+
+/* ===============================
+    Banner Part Starts here
+================================== */
+.banner_bg {
+    background: #feeae9;
+    padding: 60px;
+    border-radius: 7px;
+}
+
+.banner_text h2 {
+    color: #1f1f1f;
+    font-size: 41px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    padding-bottom: 14px;
+}
+
+.banner_text p {
+    color: #707070;
+    font-size: 18px;
+    font-weight: 300;
+    font-family: 'Poppins', sans-serif;
+    line-height: 35px;
+    padding-bottom: 25px;
+}
+
+.banner_text h5 {
+    color: #ff136f;
+    font-size: 41px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 35px;
+}
+
+.banner_text a {
+    background: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    padding: 10px 60px 10px 25px;
+    border-radius: 7px;
+}
+
+.banner_text span {
+    position: relative;
+}
+
+.banner_text span i {
+    position: absolute;
+    right: 25px;
+    top: 2px;
+    color: #fff;
+    font-size: 18px;
+}
+
+/* ===============================
+    Banner Part Ends here
+================================== */
+/* ===============================
+    Menu Part Starts here
+================================== */
+/* ===============================
+    Menu Part Ends here
+================================== */
+/* ===============================
+    Menu Part Starts here
+================================== */
+/* ===============================
+    Menu Part Ends here
+================================== */
+/* ===============================
+    Menu Part Starts here
+================================== */
+/* ===============================
+    Menu Part Ends here
+================================== */
+/* ===============================
+    Menu Part Starts here
+================================== */
+/* ===============================
+    Menu Part Ends here
+================================== */
