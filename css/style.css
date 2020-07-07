@@ -161,12 +161,54 @@ span {
 /* ===============================
     Banner Part Ends here
 ================================== */
+
+
 /* ===============================
-    Menu Part Starts here
+    Category Part Starts here
 ================================== */
+#categories{
+    padding-bottom: 50px;
+}
+
+.categoriy_head h2{
+    color: #1f1f1f;
+    font-size: 30px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    padding: 70px 0 45px;
+}
+
+.cat1, .cat2, .cat3{
+    padding: 30px 40px;
+    border-radius: 7px;
+}
+.cat1{
+    background: linear-gradient(to right, #ff9c35 0%, #ffd019 100%);
+}
+
+.cat2{
+    background: linear-gradient(to right, #ff589b 0%, #ff136f 100%);
+}
+
+.cat3{
+    background: linear-gradient(to right, #4289ff 0%, #3f07f8 100%);
+}
+
+.cagegory_inner h2{
+    color: #fff;
+    font-size: 40px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+}
+
+.cagegory_inner img{
+    width: 110px;
+}
 /* ===============================
-    Menu Part Ends here
+    Category Part Ends here
 ================================== */
+
+
 /* ===============================
     Menu Part Starts here
 ================================== */
