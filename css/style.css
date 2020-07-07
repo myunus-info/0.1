@@ -294,6 +294,88 @@ span {
     border: none;
     box-shadow: 5px 5px 10px lightgray;
 }
+
+#shoesPart{
+    padding-bottom: 100px;
+    background: #f8f8f8;
+}
+
+.backpack_head{
+    padding-bottom: 50px;
+}
+
+.backpack_head h2{
+    color: #1f1f1f;
+    font-size: 30px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 85px;
+}
+
+.backpack_head a{
+    color: #ff9d00;
+    font-size: 22px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 85px;
+}
+
+.backpack_inner h5{
+    color: #1f1f1f;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+}
+
+.backpack_inner p{
+    color: #707070;
+    font-size: 16px;
+    font-weight: 300;
+    font-family: 'Poppins', sans-serif;
+    line-height: 30px;
+    padding-bottom: 35px;
+}
+
+.backpack_inner h2{
+    color: #1f1f1f;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 35px;
+   
+}
+
+.backpack_inner a {
+    background: #000;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    padding: 10px 60px 10px 25px;
+    border-radius: 7px;
+}
+
+.backpack_inner span {
+    position: relative;
+    
+}
+
+.backpack_inner span i {
+    position: absolute;
+    right: 25px;
+    top: 2px;
+    color: #fff;
+    font-size: 18px;
+    cursor: pointer;
+   
+}
+
+.paddBottom{
+    padding: 37px 0;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
 /* ===============================
     Shoes Part Ends here
 ================================== */
